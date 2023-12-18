@@ -1,7 +1,11 @@
+
+import Params_1 from "./params_1";
+
 function App() {
   return (
     <>
-      테스트페이지
+    {/* eslint-disable-next-line react/jsx-pascal-case */}
+      <Params_1 />
     </>
   );
 }
